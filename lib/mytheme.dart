@@ -23,6 +23,11 @@ class Mythemdata{
        fontWeight: FontWeight.bold,
        color: blacklight
      ),
+     displaySmall: TextStyle(
+         fontSize: 18,
+         fontWeight: FontWeight.bold,
+         color: primarylight
+     ),
    ),
    appBarTheme: AppBarTheme(
      backgroundColor: primarylight,
